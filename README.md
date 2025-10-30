@@ -189,9 +189,13 @@ spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
 
 ## 👥 Auteur
 
-Développé dans le cadre du cours de Spring Boot
+Karzouz Saad
 
-## 📄 Licence
+## Screenshot
+<img width="1612" height="1012" alt="Screenshot 2025-10-30 164318" src="https://github.com/user-attachments/assets/567639a9-6c6a-4afd-a360-d980baf1b0fa" />
+<img width="1607" height="1002" alt="Screenshot 2025-10-30 164146" src="https://github.com/user-attachments/assets/4ccac1af-728f-4389-86dc-a0c0e46bc6d4" />
+<img width="1609" height="1009" alt="Screenshot 2025-10-30 164106" src="https://github.com/user-attachments/assets/bee5e6fe-b5f8-401b-bf52-9604351f0906" />
+<img width="1844" height="1078" alt="Screenshot 2025-10-30 163801" src="https://github.com/user-attachments/assets/277775a0-e847-42f6-93b8-ca6e9310cb3e" />
 
-Ce projet est à usage éducatif.
+
 
